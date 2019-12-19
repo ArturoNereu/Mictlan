@@ -8,6 +8,8 @@ Repository for preservation of Phyne Game's 2011 game Mictlan
 
 [Achievements](https://github.com/ArturoNereu/Mictlan/wiki/Achievements)
 
+[Items](https://github.com/ArturoNereu/Mictlan/wiki/Items)
+
 [UI](https://github.com/ArturoNereu/Mictlan/wiki/UI)
 
 [Credits](https://github.com/ArturoNereu/Mictlan/tree/master/Credits)
