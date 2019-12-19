@@ -1,5 +1,9 @@
 # Mictlan
-Repository for preservation of Phyne Game's 2011 game Mictlan
+Repository for preservation of Phyne Game's 2011 game Mictlan.
+
+Take a look at the trailer here: https://www.youtube.com/watch?v=_cxZV7jInog
+
+![Epic](https://github.com/ArturoNereu/Mictlan/blob/master/Marketing%20Assets/MictlanEPICw.jpg)
 
 ## Art Assets
 [Characters](https://github.com/ArturoNereu/Mictlan/wiki/Characters)
